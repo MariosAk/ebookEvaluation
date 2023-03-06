@@ -1,7 +1,7 @@
 # ebookEvaluation
 
 This project aims to assess the interconnected URIs derived from [BibLinkCreator](https://www.researchgate.net/profile/Nick-Bassiliades/publication/322740325_Towards_Linking_DBpedia%27s_Bibliographic_References_to_Bibliographic_Repositories/links/5a782cdfaca2722e4df14e6a/Towards-Linking-DBpedias-Bibliographic-References-to-Bibliographic-Repositories.pdf) as to their correctness using a webpage that shows the snapshots of 2 interconnected links. Users have to choose whether the 2 links are identical, different, or if either one of them
-is broken.
+is broken.  
 The derived URIs are stored in a json file in this form:
 ```
 "http://archive.org/details/musicofpilgrimsd00pratuoft" : {
